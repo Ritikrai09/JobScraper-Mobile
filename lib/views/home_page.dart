@@ -15,6 +15,7 @@ import 'package:jobhunt_mobile/views/About/about_us.dart';
 import 'package:jobhunt_mobile/views/Bookmark/bookmarks_screen.dart';
 import 'package:jobhunt_mobile/views/Search/search.dart';
 import 'package:jobhunt_mobile/views/Settings/settings.dart';
+import 'package:jobhunt_mobile/widgets/anim_widget.dart';
 import 'package:jobhunt_mobile/widgets/dissmiss_widget.dart';
 import 'package:jobhunt_mobile/widgets/image.dart';
 import 'package:tutorial_coach_mark/tutorial_coach_mark.dart';
